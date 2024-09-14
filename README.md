@@ -1,1 +1,1 @@
-# hachathone_milestone_1-2
+# Milestone 1-2: Static Interactive Resume Builder
